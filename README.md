@@ -1,4 +1,5 @@
-# Implementation-of-Erosion-and-Dilation
+# EX-09 Implementation-of-Erosion-and-Dilation
+## Date: 25-04-2024
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
